@@ -1,0 +1,10 @@
+student_id,student_name,study_hours,attendance,previous_score,assignments_completed,final_score,internal_marks,total_score,grade,record_date
+1,sam,10.0,70,90,5,70,18,88,A,2026-11-07
+2,karna,10.0,90,99,5,78,20,98,A+,2026-11-07
+3,sam,2.0,90,70,3,60,13,73,B+,2026-11-07
+4,peter,4.0,90,50,3,20,13,33,D,2026-11-06
+5,rohit,7.0,50,70,4,75,13,88,A,2026-11-07
+6,kiran,4.0,50,20,4,75,10,85,A,2026-11-07
+7,bharti,4.0,70,55,4,75,12,87,A,2026-11-05
+8,mehak,4.0,50,55,4,20,10,30,F,2026-11-05
+9,siya,5.0,10,20,1,45,7,52,C+,2026-11-07
