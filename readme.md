@@ -1,4 +1,4 @@
-# 🎓 Student Score Analysis System
+# 🎓 Student
 
 A **Student Performance Management and Analytics System** developed using Python, NumPy, Pandas, Matplotlib, Seaborn, and Streamlit.
 
@@ -54,15 +54,13 @@ Interactive data visualizations using Matplotlib and Seaborn:
 ## 📂 Project Structure
 
 ```text
-student-score-analysis/
-│
-├── app.py
+student/
 │
 ├── data/
 │   └── predictions.csv
 │
+├── new.py
 ├── requirements.txt
-│
 └── README.md
 ```
 
@@ -73,13 +71,13 @@ Follow these steps to run the project locally.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/anshnegi2005/student-score-analysis.git
+git clone https://github.com/anshnegi2005/student-score-analysis.git student
 ```
 
 ### Step 2: Navigate to Project Directory
 
 ```bash
-cd student-score-analysis
+cd student
 ```
 
 ### Step 3: Install Required Libraries
@@ -91,7 +89,7 @@ pip install -r requirements.txt
 ### Step 4: Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run new.py
 ```
 
 The application will open in your default web browser.
@@ -155,5 +153,4 @@ Python Developer | Data Analytics Enthusiast
 
 ## 🔗 GitHub Repository
 
-[Student Score Analysis System](https://github.com/anshnegi2005/student-score-analysis)
-
+[Student Project](https://github.com/anshnegi2005/student-score-analysis)
