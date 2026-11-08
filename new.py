@@ -327,7 +327,7 @@ if menu == "Score Analysis":
 
     else:
 
-        # ---------- Row 1 ----------
+
         col_a, col_b = st.columns(2)
 
         with col_a:
@@ -372,7 +372,6 @@ if menu == "Score Analysis":
 
         st.divider()
 
-        # ---------- Row 2 ----------
         col_c, col_d = st.columns(2)
 
         with col_c:
@@ -421,7 +420,6 @@ if menu == "Score Analysis":
 
         st.divider()
 
-        # ---------- Row 3 ----------
         col_e, col_f = st.columns(2)
 
         with col_e:
@@ -474,7 +472,7 @@ if menu == "Dashboard":
 
     st.divider()
 
-    # KPI Calculations
+
 
     total_students = len(df)
 
